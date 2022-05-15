@@ -1,0 +1,11 @@
+GET http://localhost:3000/lockers/
+Content-Type: application/json
+Username: admin
+Password: admin
+
+###
+
+GET http://localhost:3000/lockers/1
+Content-Type: application/json
+Username: admin
+Password: admin

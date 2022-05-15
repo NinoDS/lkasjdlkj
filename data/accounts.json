@@ -1,0 +1,1 @@
+{"accounts":[{"id":1,"username":"admin","password":"PASSWORD","role":"admin"},{"id":2,"username":"user","password":"PASSWORD","role":"user"},{"id":3,"username":"guest","password":"","role":"guest"}],"nextId":4}
